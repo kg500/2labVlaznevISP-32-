@@ -1,0 +1,23 @@
+body, html{
+    height: 100%;
+    margin: 0;
+    background-color: aquamarine;
+}
+#uphead{
+    height: 11%;
+    width: 100%;
+}
+#lmenu{
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+#rcontent{
+    width:74%;
+    height: 100%;
+    float: left;
+}
+#dfooter{
+    height: 15%;
+    width: 100%;
+}
